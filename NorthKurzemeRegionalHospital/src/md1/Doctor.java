@@ -25,7 +25,7 @@ public class Doctor extends Person {
 	public void setOfficeNum(short officeNum) {
 		this.officeNum = officeNum;
 	}
-	public int getDocturId() {
+	public int getDoctorId() {
 		return doctorId;
 	}
 	public void setDoctorId() {
